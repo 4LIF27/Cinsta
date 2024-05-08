@@ -17,4 +17,4 @@ if __name__=='__main__':
 		if int(K)<71:A(width=71,style=D).print(G(f"[italic red]Harap Kecilkan Tampilan Termux Dengan Cara Mencubit Layar Dalam Aplikasi Termux, Kecilkan Panel Ini Sampai Terlihat Rapi!",title='[bold red]>[bold yellow]>[bold green]>[bold royal_blue1] (Kecilkan Tampilan Termux) [bold green]<[bold yellow]<[bold red]<'));C()
 		else:B.system('git pull');J().Command()
 	except I:C()
-	except H as E:A(width=71,style=D).print(G(f"[italic red]{F(E).title()}!",title='[bold red]>[bold yellow]>[bold green]>[bold royal_blue1] (Error) [bold green]<[bold yellow]<[bold red]<'));C(
+	except H as E:A(width=71,style=D).print(G(f"[italic red]{F(E).title()}!",title='[bold red]>[bold yellow]>[bold green]>[bold royal_blue1] (Error) [bold green]<[bold yellow]<[bold red]<'));C()
