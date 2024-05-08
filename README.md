@@ -9,7 +9,7 @@ a Premium tools to create Instagram account using python request s without selen
  pkg update && pkg upgrade
  pkg install python
  pkg install git  
- rm -rf Harvest
+ rm -rf Cinsta
  pip install rich,requests,bs4
  git clone https://github.com/zhukov-z/Cinsta
  cd Cinsta
