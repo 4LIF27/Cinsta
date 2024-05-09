@@ -1,4 +1,4 @@
-# Cinsta
+# Cinsta (create Instagram Account)
 a Premium tools to create Instagram account using python request s without selenium shit🔥🔥
 ### Screenshot
 <img src="https://raw.githubusercontent.com/Zhukov-Z/Harvest/main/20240508_014044289.jpeg" />
