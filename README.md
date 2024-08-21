@@ -22,7 +22,7 @@ a Premium tools to create Instagram account using python request s without selen
  python run.py
 ```
 ## DEMO 
-* anda bisa [klik disini](https://www.instagram.com/reel/C97CtwIyqFB/?igsh=MWZ6bDF5aGY3emVtYg==) 
+* you can [click here](https://www.instagram.com/reel/C97CtwIyqFB/?igsh=MWZ6bDF5aGY3emVtYg==) 
 
 ## CARA MEMBELI PREMIUM
 * anda bisa [klik disini](http://wa.me/6283198075343) untuk membeli lisensi premium
