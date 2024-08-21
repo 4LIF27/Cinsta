@@ -21,7 +21,8 @@ a Premium tools to create Instagram account using python request s without selen
  cd Cinsta
  python run.py
 ```
-
+## DEMO 
+* anda bisa [klik disini](https://www.instagram.com/reel/C97CtwIyqFB/?igsh=MWZ6bDF5aGY3emVtYg==) 
 
 ## CARA MEMBELI PREMIUM
 * anda bisa [klik disini](http://wa.me/6283198075343) untuk membeli lisensi premium
